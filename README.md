@@ -1,3 +1,3 @@
 # twenty
 
-Repo for twenty percent project work
+Repo for twenty percent project work.
